@@ -14,7 +14,7 @@ html {
 	padding: 0;
 	}
 body { 
-	font: 75% georgia, sans-serif;
+	font: 75% helvetica, sans-serif;
 	line-height: 1.88889;
 	color: #555753; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
@@ -26,7 +26,7 @@ p {
 	text-align: justify;
 	}
 h3 { 
-	font: italic normal 1.4em georgia, sans-serif;
+	font: italic normal 1.4em helvetica, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #7D775C;
@@ -105,7 +105,7 @@ header {
 
 .preamble {
 	clear: right; 
-	padding: 0px 10px 0 10px;
+	padding: 0px 10px 0px 10px;
 	}
 .supporting {	
 	padding-left: 10px; 
